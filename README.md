@@ -1,3 +1,10 @@
+## STEPS TO RUN THE CODE
+1. pip install -r requirements.txt
+2. python tests/test_model.py
+
+
+## BELOW ARE THE RESULTS OF THE TRAINING
+
 ## Epoch 1:
 loss=0.017595084384083748 batch_id=468: 100%|██████████| 469/469 [00:19<00:00, 23.63it/s]
 
