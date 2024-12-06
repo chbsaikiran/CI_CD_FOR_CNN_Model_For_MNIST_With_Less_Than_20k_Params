@@ -130,10 +130,3 @@ loss=0.0022224395070225 batch_id=539: 100%|██████████| 540/5
 Test set: Average loss: 0.0192, Accuracy: 9943/10000 (99%)
 
 Learning Rate = 0.001
-
-## Epoch 19:
-loss=0.004515319596976042 batch_id=539: 100%|██████████| 540/540 [00:22<00:00, 23.95it/s]
-
-Test set: Average loss: 0.0197, Accuracy: 9937/10000 (99%)
-
-Learning Rate = 0.0001
